@@ -13,8 +13,8 @@ Saat ini, saya sedang aktif mendalami ekosistem teknologi yang fundamental untuk
 * **Bahasa Pemrograman:** `Python`
 * **Library Analisis Data:** `Pandas`, `NumPy`
 * **Library Visualisasi Data:** `Matplotlib`, `Seaborn`
-* **Database & Kueri:** `SQL`
-* **Rencana Pembelajaran Berikutnya:** `Tableau`, `Scikit-learn`, dan `TensorFlow` untuk pengolahan citra.
+* **Database & Kueri:** `SQL`, 'MongoDB'
+* **Rencana Pembelajaran Berikutnya:** `Tableau`, `Scikit-learn`, 'Machine Learning' , dan `TensorFlow`.
 
 ---
 
