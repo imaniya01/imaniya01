@@ -1,16 +1,43 @@
-## Hi there 👋
+# Hi there, I'm Imaniya Zulfa! 👋
 
-<!--
-**imaniya01/imaniya01** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p>
+  Seorang penggemar data dengan ketertarikan tinggi pada <b>Data Analysis</b> dan <b>Data Engineering</b>. Saya sangat antusias dalam proses mengubah data mentah—baik itu angka, teks, maupun citra—menjadi wawasan yang bermanfaat melalui pemrosesan, analisis, dan visualisasi.
+</p>
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🌱 I'm Currently Learning & Focusing On
+
+Saat ini, saya sedang aktif mendalami ekosistem teknologi yang fundamental untuk dunia data:
+
+* **Bahasa Pemrograman:** `Python`
+* **Library Analisis Data:** `Pandas`, `NumPy`
+* **Library Visualisasi Data:** `Matplotlib`, `Seaborn`
+* **Database & Kueri:** `SQL`
+* **Rencana Pembelajaran Berikutnya:** `Tableau`, `Scikit-learn`, dan `TensorFlow` untuk pengolahan citra.
+
+---
+
+### 📊 My GitHub Stats
+
+Saya baru memulai perjalanan saya di GitHub. Statistik ini akan menjadi saksi perkembangan saya ke depannya! 🚀
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=imaniya01&show_icons=true&theme=tokyonight" alt="GitHub Stats">
+</p>
+
+---
+
+### 🔗 Connect with Me
+
+<p>
+  Meskipun profil saya masih dalam tahap pengembangan, saya akan sangat senang jika kita bisa terhubung!
+</p>
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/imaniya-zulfa-mumtaza-359953333)
+
+---
+
+### ✨ Favorite Quote
+
+> "Without data, you're just another person with an opinion." - W. Edwards Deming
