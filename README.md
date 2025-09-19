@@ -34,7 +34,7 @@ Saya baru memulai perjalanan saya di GitHub. Statistik ini akan menjadi saksi pe
   Meskipun profil saya masih dalam tahap pengembangan, saya akan sangat senang jika kita bisa terhubung!
 </p>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/imaniya-zulfa-mumtaza-359953333)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/imaniya-zulfa-mumtaza-359953333/)
 
 ---
 
